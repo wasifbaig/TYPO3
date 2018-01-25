@@ -1,0 +1,10 @@
+This helper utility give you GoogleAnalytics and custom email template funactionality.
+
+For GoogleAnalytics 
+---------------------
+Add// use namespace PV\Utility\Utilities\GoogleAnalytics ; 
+
+
+For Custom Email Template 
+---------------------
+Add// use namespace PV\Utility\Utilities\SendEmail ;
