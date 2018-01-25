@@ -1,0 +1,41 @@
+    <T3DataStructure>
+    <sheets>
+        <sDEF>
+            <ROOT>
+                <TCEforms>
+                    <sheetTitle>PV User Info</sheetTitle>
+                </TCEforms>
+                <type>array</type>
+                <el>
+                    <switchableControllerActions>
+                        <TCEforms>
+                            <label>Darstellungsart</label>
+                            <config>
+                                <type>select</type>
+                                <items>
+
+                                    <numIndex index="10">
+                                        <numIndex index="0">PDF Generator</numIndex>
+                                        <numIndex index="1">
+                                            Sample->pdfGenerator;
+                                        </numIndex>
+                                    </numIndex>
+
+                                  
+
+                                </items>
+                                <maxitems>1</maxitems>
+                                <size>5</size>
+                                <autoSizeMax>10</autoSizeMax>
+                                <itemListStyle>Width:250px</itemListStyle>
+                            </config>
+                        </TCEforms>
+                    </switchableControllerActions>
+
+                    
+
+                </el>
+            </ROOT>
+        </sDEF>
+    </sheets>
+</T3DataStructure>
